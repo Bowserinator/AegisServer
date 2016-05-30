@@ -1,0 +1,397 @@
+{
+    "\u0003_ohkikkerz": {
+        "deaths": 18,
+        "logins": 79,
+        "quits": 82
+    },
+    "\u0003_windows": {
+        "deaths": 0,
+        "logins": 4,
+        "quits": 5
+    },
+    "\u0003alias": {
+        "deaths": 199,
+        "logins": 2,
+        "quits": 3
+    },
+    "\u0003amberlumps": {
+        "deaths": 3,
+        "logins": 14,
+        "quits": 12
+    },
+    "\u0003ashuriyasuku": {
+        "deaths": 1,
+        "logins": 3,
+        "quits": 4
+    },
+    "\u0003baconpancakes231": {
+        "deaths": 0,
+        "logins": 1,
+        "quits": 2
+    },
+    "\u0003bellatrezza": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 0
+    },
+    "\u0003ben123767": {
+        "deaths": 16,
+        "logins": 34,
+        "quits": 33
+    },
+    "\u0003boxmein": {
+        "deaths": 5,
+        "logins": 28,
+        "quits": 29
+    },
+    "\u0003bramblejam": {
+        "deaths": 1,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003bwbellairs": {
+        "deaths": 33,
+        "logins": 86,
+        "quits": 86
+    },
+    "\u0003cac_boomerang": {
+        "deaths": 7,
+        "logins": 8,
+        "quits": 9
+    },
+    "\u0003cameronbad": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003catelite": {
+        "deaths": 5,
+        "logins": 2,
+        "quits": 1
+    },
+    "\u0003chessking345": {
+        "deaths": 19,
+        "logins": 40,
+        "quits": 40
+    },
+    "\u0003colinmon22": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003commanderofcraft": {
+        "deaths": 0,
+        "logins": 2,
+        "quits": 3
+    },
+    "\u0003connorofdoom": {
+        "deaths": 3,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003cookiepallz": {
+        "deaths": 79,
+        "logins": 38,
+        "quits": 35
+    },
+    "\u0003cracker64": {
+        "deaths": 2,
+        "logins": 187,
+        "quits": 175
+    },
+    "\u0003crisisoverdrive": {
+        "deaths": 1,
+        "logins": 8,
+        "quits": 9
+    },
+    "\u0003criticsquid": {
+        "deaths": 0,
+        "logins": 2,
+        "quits": 3
+    },
+    "\u0003dangerdill3": {
+        "deaths": 0,
+        "logins": 1,
+        "quits": 2
+    },
+    "\u0003dauntlessfour": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003diggingduck123": {
+        "deaths": 9,
+        "logins": 15,
+        "quits": 15
+    },
+    "\u0003dzaddy": {
+        "deaths": 0,
+        "logins": 2,
+        "quits": 3
+    },
+    "\u0003eclipsse": {
+        "deaths": 27,
+        "logins": 5,
+        "quits": 6
+    },
+    "\u0003estraz_slomod": {
+        "deaths": 0,
+        "logins": 2,
+        "quits": 3
+    },
+    "\u0003fatcat00": {
+        "deaths": 0,
+        "logins": 7,
+        "quits": 6
+    },
+    "\u0003fcc": {
+        "deaths": 720,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003fedgit": {
+        "deaths": 1,
+        "logins": 20,
+        "quits": 21
+    },
+    "\u0003ficer1": {
+        "deaths": 6,
+        "logins": 7,
+        "quits": 8
+    },
+    "\u0003flamergamer1234": {
+        "deaths": 2,
+        "logins": 7,
+        "quits": 8
+    },
+    "\u0003foucus": {
+        "deaths": 29,
+        "logins": 72,
+        "quits": 74
+    },
+    "\u0003giant_tnt": {
+        "deaths": 0,
+        "logins": 4,
+        "quits": 5
+    },
+    "\u0003harry48225": {
+        "deaths": 2,
+        "logins": 7,
+        "quits": 8
+    },
+    "\u0003iovoid": {
+        "deaths": 112,
+        "logins": 236,
+        "quits": 234
+    },
+    "\u0003ironhawk2": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003ithederpyhacker": {
+        "deaths": 1,
+        "logins": 3,
+        "quits": 4
+    },
+    "\u0003jacob6": {
+        "deaths": 4,
+        "logins": 0,
+        "quits": 0
+    },
+    "\u0003jacob614": {
+        "deaths": 4,
+        "logins": 170,
+        "quits": 152
+    },
+    "\u0003jamesdf12345": {
+        "deaths": 3,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003jedayoshi": {
+        "deaths": 6,
+        "logins": 3,
+        "quits": 4
+    },
+    "\u0003jpaul999": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003jztech101": {
+        "deaths": 0,
+        "logins": 3,
+        "quits": 4
+    },
+    "\u0003kevino36": {
+        "deaths": 2,
+        "logins": 9,
+        "quits": 8
+    },
+    "\u0003konstruktor": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003lbphacker": {
+        "deaths": 1,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003linix": {
+        "deaths": 27,
+        "logins": 13,
+        "quits": 14
+    },
+    "\u0003linkthegamer": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003lolcat556": {
+        "deaths": 0,
+        "logins": 6,
+        "quits": 7
+    },
+    "\u0003luxaura": {
+        "deaths": 0,
+        "logins": 3,
+        "quits": 4
+    },
+    "\u0003lyons12598": {
+        "deaths": 2,
+        "logins": 1,
+        "quits": 2
+    },
+    "\u0003mineblock0104": {
+        "deaths": 19,
+        "logins": 181,
+        "quits": 184
+    },
+    "\u0003minecraft18588": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003miningmarsh": {
+        "deaths": 0,
+        "logins": 1,
+        "quits": 2
+    },
+    "\u0003mrplaidsquirrel": {
+        "deaths": 14,
+        "logins": 6,
+        "quits": 7
+    },
+    "\u0003mrprocom": {
+        "deaths": 2,
+        "logins": 13,
+        "quits": 14
+    },
+    "\u0003nberry13": {
+        "deaths": 42,
+        "logins": 72,
+        "quits": 73
+    },
+    "\u0003nixy2315": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003paul_31415": {
+        "deaths": 3,
+        "logins": 14,
+        "quits": 15
+    },
+    "\u0003razersix": {
+        "deaths": 7,
+        "logins": 11,
+        "quits": 12
+    },
+    "\u0003redpr1sm": {
+        "deaths": 1,
+        "logins": 0,
+        "quits": 0
+    },
+    "\u0003reluna": {
+        "deaths": 0,
+        "logins": 1,
+        "quits": 2
+    },
+    "\u0003ristovski": {
+        "deaths": 3,
+        "logins": 18,
+        "quits": 18
+    },
+    "\u0003robotronmc": {
+        "deaths": 67,
+        "logins": 77,
+        "quits": 77
+    },
+    "\u0003sanderthedragon": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003sg_voltage": {
+        "deaths": 23,
+        "logins": 211,
+        "quits": 205
+    },
+    "\u0003simtr": {
+        "deaths": 118,
+        "logins": 171,
+        "quits": 179
+    },
+    "\u0003sir_cockroach": {
+        "deaths": 0,
+        "logins": 40,
+        "quits": 39
+    },
+    "\u0003sprint": {
+        "deaths": 5,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003spuriosity": {
+        "deaths": 1,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003stickduude": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003stickyninja44": {
+        "deaths": 3,
+        "logins": 17,
+        "quits": 18
+    },
+    "\u0003thewaxmann": {
+        "deaths": 3,
+        "logins": 114,
+        "quits": 122
+    },
+    "\u0003unionthunder": {
+        "deaths": 0,
+        "logins": 3,
+        "quits": 4
+    },
+    "\u0003xteric": {
+        "deaths": 0,
+        "logins": 0,
+        "quits": 1
+    },
+    "\u0003yourpallconn": {
+        "deaths": 17,
+        "logins": 13,
+        "quits": 14
+    },
+    "\u0003zactrende": {
+        "deaths": 0,
+        "logins": 2,
+        "quits": 2
+    }
+}

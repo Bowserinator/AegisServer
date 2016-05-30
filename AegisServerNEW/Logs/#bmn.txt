@@ -1,0 +1,72 @@
+[09:49PM-February 27, 2016] [BMNBot][unaffiliated/wolfy1339/bot/bmnbot]:  has joined #BMN
+[10:20PM-February 27, 2016] [Mrprocom][]:  has set MODE +v mrprocom
+[09:13PM-February 28, 2016] [Bowserinator][unaffiliated/bowserinator]: lol sorry bwbellairs[server] spam
+[02:01PM-February 29, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[05:58PM-February 29, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[06:16PM-February 29, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[04:08AM-March 01, 2016] [wolfy1339][botters/wolfy1339]:  has joined #BMN
+[04:08AM-March 01, 2016] [wolfy1339][]:  has set MODE +v wolfy1339
+[03:19PM-March 01, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[07:56PM-March 01, 2016] [America][gateway/web/cgi-irc/kiwiirc.com/ip.71.99.169.223]:  has joined #BMN
+[07:56PM-March 01, 2016] [America][]:  has set MODE +v america
+[08:05PM-March 01, 2016] [Thanatos][gateway/web/cgi-irc/kiwiirc.com/ip.71.99.169.223]:  has quit the channel. (gateway/web/cgi-irc/kiwiirc.com/ip.71.99.169.223)
+[02:51AM-March 02, 2016] [Jupiter][gateway/web/cgi-irc/kiwiirc.com/ip.71.99.169.223]:  has joined #BMN
+[02:51AM-March 02, 2016] [Jupiter][]:  has set MODE +v jupiter
+[12:41PM-March 02, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[07:31PM-March 02, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[09:05PM-March 02, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[09:10PM-March 02, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[02:11AM-March 03, 2016] [BMNBot][unaffiliated/wolfy1339/bot/bmnbot]:  has joined #BMN
+[02:11AM-March 03, 2016] [BMNBot][]:  has set MODE +o bmnbot
+[03:43PM-March 03, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[09:09PM-March 03, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[09:10PM-March 03, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[01:48PM-March 04, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[12:00AM-March 05, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[01:08PM-March 05, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[12:40PM-March 07, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[11:44PM-March 07, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[12:54PM-March 08, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[12:43PM-March 09, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[01:40PM-March 09, 2016] [Bowserinator][unaffiliated/bowserinator]:  has quit the channel. (unaffiliated/bowserinator)
+[02:03PM-March 09, 2016] [Bowserinator][unaffiliated/bowserinator]:  has joined #BMN
+[02:03PM-March 09, 2016] [Bowserinator][]:  has set MODE +v bowserinator
+[03:41PM-March 09, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[03:41PM-March 09, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[12:44AM-March 10, 2016] [Bowserin-][2a02:748:a800:ca7:ea75:b12d:2b:d423]:  has joined #BMN
+[12:51AM-March 10, 2016] [iovoid][]:  has set MODE +v iovoid
+[12:39PM-March 10, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[05:39PM-March 10, 2016] [Mrprocom][unaffiliated/mrprocom]: wolfy1339: you there?
+[05:39PM-March 10, 2016] [Mrprocom][unaffiliated/mrprocom]: iovoid: you there?
+[03:16AM-March 11, 2016] [wolfy1339][botters/wolfy1339]: hi
+[03:22AM-March 11, 2016] [iovoid][unaffiliated/iovoid]: mooo
+[03:22AM-March 11, 2016] [wolfy1339][botters/wolfy1339]: so what did Mrprocom want
+[03:23AM-March 11, 2016] [iovoid][unaffiliated/iovoid]: IDK
+[03:23AM-March 11, 2016] [iovoid][unaffiliated/iovoid]: I was away
+[03:23AM-March 11, 2016] [iovoid][unaffiliated/iovoid]: wolfy1339, do you know someone made a MC server in node.js?
+[03:23AM-March 11, 2016] [wolfy1339][botters/wolfy1339]: no
+[03:25AM-March 11, 2016] [wolfy1339][botters/wolfy1339]: darn ZNC won't compile anymore since they added translations
+[03:28AM-March 11, 2016] [iovoid][unaffiliated/iovoid]: Use pre-compiled binary?
+[03:37AM-March 11, 2016] [wolfy1339][botters/wolfy1339]: i like to use the git rebvisions
+[11:12PM-March 11, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[11:39PM-March 11, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[01:34PM-March 12, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[12:00AM-March 14, 2016] [AegisServer][234.112.197.104.bc.googleusercontent.com]:  has joined #BMN
+[03:49AM-May 08, 2016] [Tommers][gateway/web/freenode/ip.98.125.153.133]:  has joined #BMN
+[03:49AM-May 08, 2016] [Tommers][gateway/web/freenode/ip.98.125.153.133]: Helloooooooo
+[01:11PM-May 08, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[11:42AM-May 09, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[07:22PM-May 09, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[10:50PM-May 09, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[03:00PM-May 10, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[07:15AM-May 13, 2016] [iovoid][unaffiliated/iovoid]:  has joined #BMN
+[07:15AM-May 13, 2016] [iovoid][]:  has set MODE +v iovoid
+[01:30PM-May 15, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[10:25PM-May 15, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[11:48AM-May 17, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[07:25PM-May 17, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[11:47AM-May 19, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[12:22PM-May 21, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[12:01PM-May 23, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[12:35PM-May 23, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN
+[12:24PM-May 27, 2016] [AegisServer][147.58.148.146.bc.googleusercontent.com]:  has joined #BMN

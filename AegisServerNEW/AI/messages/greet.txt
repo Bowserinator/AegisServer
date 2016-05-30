@@ -1,0 +1,5 @@
+Hello <nick>! Have you moooed today?
+Hello!
+Hello <nick>, how are you?
+Oh hi!
+Hello! How are you doing?

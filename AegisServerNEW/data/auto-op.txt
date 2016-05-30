@@ -1,0 +1,7 @@
+BowserBotBeta,all,op
+BowserBotBeta,all,op
+BowserBot2,all,op
+Bowserinator,all,op
+Bowserinator,all,noban,unaffiliated/bowserinato
+CompanionBot,#botwar,deop
+Bowserinator,all,unban
